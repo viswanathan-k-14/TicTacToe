@@ -1,4 +1,4 @@
 # TicTacToe
 A vanilla javascript tic tac toe game
 
-Live site : https://tictacjs.netlify.app/
+Try Live game -> https://tictacjs.netlify.app/
