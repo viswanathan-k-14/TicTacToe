@@ -38,8 +38,8 @@ button:hover {
 #game-board {
   display: flex;
   flex-wrap: wrap;
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
 }
 
 .box {
